@@ -1,0 +1,11 @@
+node_modules/
+screenshots/
+.idea/
+reports/bdd/
+!reports/bdd/.gitkeep
+.env
+!retry_mechanism/fails/.gitkeep
+!retry_mechanism/features/.gitkeep
+retry_mechanism/fails/
+retry_mechanism/features/
+.DS_Store
