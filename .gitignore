@@ -1,6 +1,6 @@
+.idea/
 node_modules/
 screenshots/
-.idea/
 reports/bdd/
 !reports/bdd/.gitkeep
 .env
